@@ -5,8 +5,8 @@ const { Parser } = require('json2csv')
 
 AWS.config.update({
   accessKeyId: 'AKIAV3YS7YLBZUG6QVOQ',
-  secretAccessKey: '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',
-  region: 'us-east-1',
+  secretAccessKey: '',
+  region: '',
 })
 
 exports.doAnalysis = async (req, res) => {

@@ -5,8 +5,8 @@ import { useEffect } from 'react'
 
 const configuration = ConfigurationOptions = {
     region: 'us-east-1',
-    secretAccessKey: 'WSzPSjdKvfn+CqlK/AAtNwFlp8yFGx36tiTrYkd3',
-    accessKeyId: 'AKIAV3YS7YLB467YAQNK'
+    secretAccessKey: '',
+    accessKeyId: ''
 }
 
 AWS.config.update(configuration)
