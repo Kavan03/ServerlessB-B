@@ -1,0 +1,68 @@
+{
+  "name": "serverlessbnb",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@aws-amplify/auth": "^4.3.16",
+    "@aws-amplify/core": "^4.3.8",
+    "@aws-amplify/interactions": "^4.0.26",
+    "@aws-amplify/storage": "^4.4.9",
+    "@aws-amplify/ui-react": "^2.1.2",
+    "@emotion/react": "^11.9.3",
+    "@emotion/styled": "^11.9.3",
+    "@hookform/resolvers": "^2.9.5",
+    "@mui/material": "^5.9.1",
+    "@mui/x-data-grid": "^5.13.1",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "aws-amplify": "^4.3.27",
+    "aws-sdk": "^2.1179.0",
+    "axios": "^0.27.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
+    "react-helmet": "^6.1.0",
+    "react-hook-form": "^7.33.1",
+    "react-iframe": "^1.8.0",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "5.0.1",
+    "react-spinners": "^0.13.3",
+    "react-toastify": "^9.0.5",
+    "styled-components": "^5.3.5",
+    "tailwindcss": "^3.1.5",
+    "web-vitals": "^2.1.4",
+    "yup": "^0.32.11"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "description": "<!--- The following README.md sample file was adapted from https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md by Prit Sorathiya for academic use --->",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://git.cs.dal.ca/psorathiya/csci5410_group6.git"
+  },
+  "author": "",
+  "license": "ISC"
+}

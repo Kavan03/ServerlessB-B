@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "shining-weft-343703",
+  "private_key_id": "0baf5b46d03884b973375ba18ef26ff1f7d727c5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCqz9r/Pdd425Fs\nNsRIn/yVWnSQKiwVSPhA4qvD0lr0PrEUsKiiiz660SlAqx6oHQ/Jj0tEafBMgao8\n8kpfc01WnweXvomiOF4Y14LaYclVEiqDZw8YwTj8ScXkQ+qeQc9Ei9EPW7B0j3fJ\n9HlpD7uyghAhZDWO793SnS5GdCDPIfU/MRHAgD3TpzpSddvuEgilHb+N9xPkmLWb\nfh7WcXwA0JL1xp9TylYIrUitQu2Qe5cQnsrcINmWd/qE7eWZUVaL6x+9FLYqOG0B\nFzy9FDmmixE/yR8jW3cQ79tFG8gpDuleU37gKhQse/2hxEIPh9Jn520nQ0y5oFhn\nAUAH6YG5AgMBAAECggEACTw5gZse/St28IBCCtCunAci3gAPt9tlA8IVqh3jmcjR\nc3ZNOdOYQcrJBZRy8QE4Pyw6lDF7ovFQSmEJvSErbWtmAlH0mFMeoE53plXK6Ej2\nCDqAXhTlXzugYdP7uZCCk7jRBfjtwJGYtxA7J79oZTGDzIBh5m9o4YgqzjedZgF/\n7yt1Ufp3g6WM4MGYecpeTFkUFxXhC1ZpThXNrqXla6qWP6NBrPKjdRvR8tLm9Wr4\nQjy/ryS6TTAJdE8LfDVS2C+/5mHb8+WWikz27pZd8sjfL8HGv/q3vqwddLE1x+fl\nUsnNiQsLdLluJwb+VNdnb6VtwB1O0tRVmfTklwRS0QKBgQDlPr+b8gNK0yPkb02v\nKM3npN8ipGtHurVELdW30lw6y2UwTCGnpNGiD4FB3cIYjON7k+UG3EARPiQLq1rT\nuyUcpGRT+ATPMBkyOhN06aLn5PjPMO4uv/uDdibOBduie/OR1HEf2NVP9N0U++/+\nfl7KZDe1E+BL1tgQujTgQuJGSQKBgQC+v0ZR8wZK0dYjbWnZYxog7l9KlVylimxg\nv5sSTNuRtLgSv+6xB1pHtez1nUHB9nWWX9EroyedwJDKkNJBj11S1oz1NlYl1PmM\nTHbvcOAeCwYeNsZP1fPhVX334n/4g1yw+gxlV+Y8pLkCEFtJYsdHSBHEMS9CusON\ngh5YNU6f8QKBgQCyJotdMzwfv+masmyafIlXRScqkr/UJGKNs1js24tVHY9rcx6M\nW2eWG5qFh0I5NfPqq0pGhI89Vx9H+khBVqRGl/Jn1sxV/rj18XABYTd6ItTAnvPa\nXNOmnAEYBjFjGhR09bVb3HQZCN9uWUNucOJVQoCQNfwOs82BYlOJHDEgEQKBgQCS\nq49NyjoHZAxtl18xyfM4aTKarfjcTXECf7KkwrZ+9mAoAq9uLkIsK+Z2AiKjG3jV\nVP4IuN7ofT6Yk/0obi2LWfBvSQW692WfjNhTSw756u4cY2/fyZtKpCtFZUOTeqbW\nap8HeixOazbbMGqRJkQnOnJ20n8Np4BgmjHtD6hScQKBgAwDlL20vk4naLJ9V0NJ\nsiaJcvXeUvgNHFZSn/NqzgtheO7TDhtGucYlPkvGw8s1U2gAbxRj51dlYTwsPklo\n/fPjzdP1Pb9WNv/5OEiFQ4HD7AzqBuXWCKKFEvCnDfqfyN7D5fMuJMBwaK23zzgF\ncUlQgMw6gjd+Pp20bGKP6z1j\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-service-account@shining-weft-343703.iam.gserviceaccount.com",
+  "client_id": "108086360203867484132",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-service-account%40shining-weft-343703.iam.gserviceaccount.com"
+}
